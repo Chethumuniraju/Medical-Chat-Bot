@@ -13,4 +13,4 @@ python store_index.py
 
 python app.py
 
-
+Add your pinecone api key and index
